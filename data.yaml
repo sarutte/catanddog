@@ -1,0 +1,12 @@
+train: D:\cnn\yaml\train\images
+val: D:\cnn\yaml\train\images
+
+nc: 2
+names: ['cat', 'dog']
+
+roboflow:
+  workspace: udonthani-rajabhat-university
+  project: cat-and-dog-pfwfl
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/udonthani-rajabhat-university/cat-and-dog-pfwfl/dataset/1
